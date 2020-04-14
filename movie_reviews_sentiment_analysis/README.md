@@ -10,8 +10,6 @@ Below is the list of tools/technologies used to complete this project:
 
 
 After creating an instance on AWS SageMaker and deploying the model, below is an example of the sentiment classification result for a positive and negative reviews for the movie Parasite (2019):
-![pos]
-(./Screen Shot 2020-04-11 at 2.18.02 PM.png)
+![pos](./pos_review.png)
 
-![neg]
-(./Screen Shot 2020-04-11 at 2.19.58 PM.png)
+![neg](./neg_review.png)
